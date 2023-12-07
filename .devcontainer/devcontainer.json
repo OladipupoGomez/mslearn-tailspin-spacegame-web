@@ -8,12 +8,13 @@
         "vscode": {
             // Add the IDs of extensions you want installed when the container is created.
             "extensions": [
-                "ms-vscode.azurecli",
-                "ms-vscode.powershell",
-                "hashicorp.terraform",
-                "esbenp.prettier-vscode",
-                "tfsec.tfsec"
-            ]
+				"ms-vscode.azurecli",
+				"ms-vscode.powershell",
+				"hashicorp.terraform",
+				"esbenp.prettier-vscode",
+				"tfsec.tfsec",
+				"leo-labs.dotnet"
+			]
         }
     },
 
